@@ -1,2 +1,3 @@
 # Double-Pump-Fortnite
-Fortnite Double Pump,
+This is a simple Double Pump For Fornite.
+
